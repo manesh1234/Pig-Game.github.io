@@ -6,4 +6,4 @@ A game between 2 Players  played using rolling Dice
 # 3) The Player who reaches total target score of '>=100' first will be the winner of this game
 # Thia game totally depends on Luck factor (:
 
-# Website - https://manesh1234.github.io/Pig-Game.github.io/ 
+# Website -  https://maneshram-pig-game.netlify.app/
